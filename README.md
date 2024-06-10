@@ -1,75 +1,108 @@
-# Nirvana 🧘‍♂️📱
+# Connectiview 🏠📱💡
+**"Your Home, Connected and Controlled at Your Fingertips."**
 
-Welcome to **Nirvana**, a comprehensive meditation and relaxation application built with Kotlin for Android. Nirvana is your go-to app for achieving calmness, mindfulness, and a balanced lifestyle through meditation, yoga, and binaural beats. 🌟
+Welcome to **Connectiview**, your ultimate smart home device control application. Built with Flutter using Dart, Connectiview lets you manage, monitor, and control all your smart home IoT devices seamlessly from your mobile device or through a web interface. 🌐
 
-![Nirvana Logo](https://yourimageurl.com/nirvana-logo.png)
+![Connectiview Logo](https://yourimageurl.com/connectiview-logo.png)
 
 ## Features 🎉
 
-### 🌿 Meditation
-- **Guided Meditation Sessions:** Choose from a variety of guided meditation sessions tailored to different needs and experience levels.
-- **Meditation Timer:** Customize intervals to suit your meditation practice.
-- **Breathing Exercises:** Engage in scientifically-backed breathing exercises for relaxation.
-- **Daily Reminders:** Set daily reminders to keep your meditation practice consistent.
+### 🌟 Device Management
+- **Universal Device Support:** Control a wide range of smart home devices including lights, thermostats, cameras, and more.
+- **Device Grouping:** Organize devices into groups for easier management.
+- **Real-Time Monitoring:** View real-time status updates and alerts for all connected devices.
+- **Scene Creation:** Create custom scenes to automate multiple devices with a single command.
+- **Remote Control:** Manage your devices remotely from anywhere in the world.
 
-### 🧘‍♀️ Yoga
-- **Extensive Pose Library:** Access a rich library of yoga poses with detailed instructions and images.
-- **Tailored Sessions:** Enjoy yoga sessions designed for beginners to advanced practitioners.
-- **Custom Routines:** Create and customize your yoga routines to fit your schedule.
-- **Daily Yoga Reminders:** Stay on track with daily reminders for your yoga practice.
+### 🖥️ Multi-Platform Access
+- **Mobile Application:** Fully-featured mobile app for Android and iOS.
+- **Web Interface:** Access and control your smart home devices from any web browser.
 
-### 🎧 Binaural Beats
-- **Relaxation Beats:** Listen to binaural beats designed for relaxation, focus, and better sleep.
-- **Integration with Meditation:** Seamlessly integrate binaural beats with your meditation sessions.
-- **Custom Frequencies:** Customize beat frequencies to match your preferences.
-- **Session Timer:** Set a timer for your binaural beat sessions.
+### 🛡️ Security and Privacy
+- **Secure Authentication:** Multi-factor authentication to keep your home secure.
+- **Data Encryption:** End-to-end encryption to protect your data.
+- **User Permissions:** Manage permissions for multiple users in your household.
+- **Audit Logs:** Track and review all actions performed on your devices.
 
-### 🌟 Additional Features
-- **User-Friendly Interface:** Enjoy a sleek and intuitive interface with dark mode support.
-- **Progress Tracking:** Track your meditation, yoga, and relaxation progress with detailed statistics.
-- **Achievements and Badges:** Earn achievements and badges to stay motivated.
-- **Offline Access:** Access your favorite sessions and poses offline.
-- **Google Fit Integration:** Sync your activity data with Google Fit for comprehensive tracking.
+### 🗣️ Voice Control
+- **Voice Assistant Integration:** Works with popular voice assistants like Google Assistant and Amazon Alexa for hands-free control.
+
+### 🌐 Connectivity
+- **Multiple Protocol Support:** Compatible with various smart home protocols such as Zigbee, Z-Wave, Wi-Fi, and Bluetooth.
+- **Automatic Device Discovery:** Automatically discover and add new devices to your network.
+- **IFTTT Integration:** Connect with IFTTT to automate actions between Connectiview and other services.
+
+### 🔔 Notifications
+- **Custom Alerts:** Receive notifications for specific events, such as motion detection or device malfunction.
+- **Smart Alerts:** Intelligent notifications that adapt to your routine and preferences.
+
+### 📊 Analytics and Insights
+- **Usage Statistics:** Detailed usage reports and statistics for each device.
+- **Energy Monitoring:** Track energy consumption of connected devices to optimize usage and save on bills.
+- **Trend Analysis:** Analyze trends in device usage to better understand and optimize your smart home setup.
+
+### 💬 Community and Support
+- **In-App Support:** Access help and support directly within the app.
+- **User Community:** Connect with other Connectiview users to share tips and experiences.
+- **FAQs and Guides:** Comprehensive FAQs and guides to help you get the most out of Connectiview.
 
 ## Getting Started 🚀
 
 ### Prerequisites
-- **Android Studio 4.0 or later**
-- **Kotlin 1.4 or later**
-- **Android SDK 21 or higher**
+- **Flutter 2.0 or later**
+- **Dart 2.12 or later**
+- **Android Studio or Visual Studio Code**
+- **A Firebase account for authentication and data storage**
 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/paa-rth/nirvana.git
+   git clone https://github.com/paa-rth/connectiview.git
    ```
-2. **Open the project in Android Studio:**
-   - File -> Open -> Select the `nirvana` directory
-3. **Build the project:**
-   - Click on `Build` -> `Rebuild Project`
-4. **Run the app on an emulator or physical device:**
-   - Click on `Run` -> `Run 'app'`
+2. **Open the project in your preferred IDE:**
+   - For Android Studio: `File` -> `Open` -> Select the `connectiview` directory
+   - For VS Code: `File` -> `Open Folder` -> Select the `connectiview` directory
+3. **Get the Flutter dependencies:**
+   ```bash
+   flutter pub get
+   ```
+4. **Run the app:**
+   - For mobile: `flutter run`
+   - For web: `flutter run -d chrome`
 
 ## Architecture 🏗️
 
-Nirvana follows the MVVM (Model-View-ViewModel) architecture to ensure a clean and maintainable codebase.
+Connectiview follows the BLoC (Business Logic Component) architecture to ensure a scalable and maintainable codebase.
 
-- **Model:** Manages data operations, including local database and remote API interactions.
-- **View:** Displays data and interacts with the user.
-- **ViewModel:** Holds UI-related data and business logic.
+- **BLoC:** Handles the business logic and state management.
+- **Presentation Layer:** Contains the UI components and widgets.
+- **Data Layer:** Manages data retrieval and persistence, including network and local storage.
 
 ## Libraries and Tools 🛠️
 
-- **Kotlin** - Modern, expressive programming language
-- **Coroutines** - Simplified asynchronous programming
-- **Room** - Database persistence library
-- **Retrofit** - HTTP client for seamless API calls
-- **Hilt** - Dependency injection library
-- **LiveData** - Lifecycle-aware data container
-- **Navigation Component** - Streamlined in-app navigation
-- **ViewModel** - Efficient management of UI-related data
-- **ExoPlayer** - Robust audio playback for binaural beats
-- **Glide** - Fast and efficient image loading and caching
+- **Flutter** - UI toolkit for building natively compiled applications.
+- **Dart** - Programming language optimized for building mobile, desktop, server, and web applications.
+- **Firebase** - Backend services for authentication, database, and cloud functions.
+- **Provider** - State management solution.
+- **HTTP** - Simplified HTTP client for making API calls.
+- **WebSocket** - Real-time communication for device updates.
+- **Hive** - Lightweight and fast key-value database for local storage.
+
+## Screenshots and Demo 📸🎥
+
+### Mobile App Screenshots
+![Home Screen](https://yourimageurl.com/home-screen.png)
+![Device Control](https://yourimageurl.com/device-control.png)
+![Scene Creation](https://yourimageurl.com/scene-creation.png)
+
+### Web Interface Screenshots
+![Web Dashboard](https://yourimageurl.com/web-dashboard.png)
+![Device Management](https://yourimageurl.com/web-device-management.png)
+![User Permissions](https://yourimageurl.com/web-user-permissions.png)
+
+### Demo Video
+Check out our demo video to see Connectiview in action!
+[![Demo Video](https://yourimageurl.com/demo-video-thumbnail.png)](https://yourvideourl.com/demo-video)
 
 ## Contributing 🤝
 
@@ -100,11 +133,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email:** [support@nirvanaapp.com](mailto:support@nirvanaapp.com)
-- **Website:** [NirvanaApp.com](https://nirvanaapp.com)
+- **Email:** [support@connectiview.com](mailto:support@connectiview.com)
+- **Website:** [Connectiview.com](https://connectiview.com)
 
-Thank you for checking out Nirvana! We hope it helps you find peace and balance in your life. Namaste 🙏
+Thank you for choosing Connectiview! We hope it makes your smart home experience more convenient and enjoyable. Stay connected and in control. 🌐🔒
 
 ---
 
-Connectiview is developed and maintained by ASAP Coders.™
+*Connectiview is developed and maintained by ASAP Coders.™*
