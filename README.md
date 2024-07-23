@@ -125,7 +125,7 @@ Connectiview follows the BLoC (Business Logic Component) architecture to ensure 
 
 ### Demo Video
 Check out our demo video to see Connectiview in action!
-[![Demo Video](https://yourimageurl.com/demo-video-thumbnail.png)](https://yourvideourl.com/demo-video)
+[![Demo Video](https://yourimageurl.com/demo-video-thumbnail.png)](https://drive.google.com/file/d/1pluw3iBT_zgighIW_r2Hs7Y8yk1UvxgY/view?usp=drive_link)
 
 ## Contributing 🤝
 
