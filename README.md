@@ -1,9 +1,13 @@
 # Connectiview 🏠📱💡
+
+<img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/ConnectiView%20Banner%20New.png" lt="ConnectiView Banner">
+
 **"Your Home, Connected and Controlled at Your Fingertips."**
+
 
 Welcome to **Connectiview**, your ultimate smart home device control application. Built with Flutter using Dart, Connectiview lets you manage, monitor, and control all your smart home IoT devices seamlessly from your mobile device or through a web interface. 🌐
 
-![Connectiview Logo](https://yourimageurl.com/connectiview-logo.png)
+
 
 ## Features 🎉
 
