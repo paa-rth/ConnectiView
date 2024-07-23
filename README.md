@@ -94,31 +94,31 @@ Connectiview follows the BLoC (Business Logic Component) architecture to ensure 
   <tr>
     <td align="center">
       <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/one.png" alt="Home Screen" width="300" height="650"><br>
-      <b>Home Screen(Mobile)</b>
+      <b>Home Screen</b>
     </td>
     <td align="center">
       <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/two.png" alt="Profile Screen" width="300" height="650"><br>
-      <b>Search Page(Mobile)</b>
+      <b>Profile Screen</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/three.png" alt="" width="300" height="650"><br>
-      <b>Home Screen(Mobile)</b>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/three.png" alt="Master Bedroom UI" width="300" height="650"><br>
+      <b>Master Bedroom UI</b>
     </td>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/four.png" alt="Search Page(Mobile)" width="300" height="650"><br>
-      <b>Search Page(Mobile)</b>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/four.png" alt="Kitchen UI" width="300" height="650"><br>
+      <b>Kitchen UI</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/five.png" alt="Home Screen(Mobile)" width="300" height="650"><br>
-      <b>Home Screen(Mobile)</b>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/five.png" alt="Garage UI" width="300" height="650"><br>
+      <b>Garage UI</b>
     </td>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/six.png" alt="Search Page(Mobile)" width="300" height="650"><br>
-      <b>Search Page(Mobile)</b>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/six.png" alt="Kid's Bedroom UI" width="300" height="650"><br>
+      <b>Kid's Bedroom UI</b>
     </td>
   </tr>
 </table>
