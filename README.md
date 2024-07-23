@@ -93,31 +93,31 @@ Connectiview follows the BLoC (Business Logic Component) architecture to ensure 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/one.png" alt="Home Screen(Mobile)" width="300" height="600"><br>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/one.png" alt="Home Screen" width="300" height="650"><br>
       <b>Home Screen(Mobile)</b>
     </td>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/two.png" alt="Search Page(Mobile)" width="300" height="600"><br>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/two.png" alt="Profile Screen" width="300" height="650"><br>
       <b>Search Page(Mobile)</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/three.png" alt="Home Screen(Mobile)" width="300" height="600"><br>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/three.png" alt="" width="300" height="650"><br>
       <b>Home Screen(Mobile)</b>
     </td>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/four.png" alt="Search Page(Mobile)" width="300" height="600"><br>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/four.png" alt="Search Page(Mobile)" width="300" height="650"><br>
       <b>Search Page(Mobile)</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/five.png" alt="Home Screen(Mobile)" width="300" height="600"><br>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/five.png" alt="Home Screen(Mobile)" width="300" height="650"><br>
       <b>Home Screen(Mobile)</b>
     </td>
     <td align="center">
-      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/six.png" alt="Search Page(Mobile)" width="300" height="600"><br>
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/six.png" alt="Search Page(Mobile)" width="300" height="650"><br>
       <b>Search Page(Mobile)</b>
     </td>
   </tr>
