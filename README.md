@@ -1,6 +1,6 @@
 # Connectiview 🏠📱💡
 
-<img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/ConnectiView%20Banner%20New.png" lt="ConnectiView Banner">
+<img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/ConnectiView%20Banner.png" lt="ConnectiView Banner">
 
 **"Your Home, Connected and Controlled at Your Fingertips."**
 
