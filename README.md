@@ -90,15 +90,38 @@ Connectiview follows the BLoC (Business Logic Component) architecture to ensure 
 
 ## Screenshots and Demo 📸🎥
 
-### Mobile App Screenshots
-![Home Screen](https://yourimageurl.com/home-screen.png)
-![Device Control](https://yourimageurl.com/device-control.png)
-![Scene Creation](https://yourimageurl.com/scene-creation.png)
-
-### Web Interface Screenshots
-![Web Dashboard](https://yourimageurl.com/web-dashboard.png)
-![Device Management](https://yourimageurl.com/web-device-management.png)
-![User Permissions](https://yourimageurl.com/web-user-permissions.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/one.png" alt="Home Screen(Mobile)" width="300" height="600"><br>
+      <b>Home Screen(Mobile)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/two.png" alt="Search Page(Mobile)" width="300" height="600"><br>
+      <b>Search Page(Mobile)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/three.png" alt="Home Screen(Mobile)" width="300" height="600"><br>
+      <b>Home Screen(Mobile)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/four.png" alt="Search Page(Mobile)" width="300" height="600"><br>
+      <b>Search Page(Mobile)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/five.png" alt="Home Screen(Mobile)" width="300" height="600"><br>
+      <b>Home Screen(Mobile)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/six.png" alt="Search Page(Mobile)" width="300" height="600"><br>
+      <b>Search Page(Mobile)</b>
+    </td>
+  </tr>
+</table>
 
 ### Demo Video
 Check out our demo video to see Connectiview in action!
