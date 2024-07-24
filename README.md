@@ -95,47 +95,38 @@ Connectiview follows the BLoC (Business Logic Component) architecture to ensure 
 ## Screenshots and Demo 📸🎥
 
 <table>
-  <style>
-    img.responsive {
-      width: 100%;
-      height: auto;
-      max-width: 300px; /* Maintain the intended size on larger screens */
-    }
-    td {
-      width: 50%; /* Make each cell take up half the width of the row */
-    }
-  </style>
   <tr>
-    <td align="center">
-      <img class="responsive" src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/one.png" alt="Home Screen"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/one.png" alt="Home Screen" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Home Screen</b>
     </td>
-    <td align="center">
-      <img class="responsive" src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/two.png" alt="Profile Screen"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/two.png" alt="Profile Screen" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Profile Screen</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img class="responsive" src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/three.png" alt="Master Bedroom UI"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/three.png" alt="Master Bedroom UI" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Master Bedroom UI</b>
     </td>
-    <td align="center">
-      <img class="responsive" src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/four.png" alt="Kitchen UI"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/four.png" alt="Kitchen UI" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Kitchen UI</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img class="responsive" src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/five.png" alt="Garage UI"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/five.png" alt="Garage UI" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Garage UI</b>
     </td>
-    <td align="center">
-      <img class="responsive" src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/six.png" alt="Kid's Bedroom UI"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/ConnectiView/blob/main/screenshots/six.png" alt="Kid's Bedroom UI" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Kid's Bedroom UI</b>
     </td>
   </tr>
 </table>
+
 
 
 ### Demo Video
